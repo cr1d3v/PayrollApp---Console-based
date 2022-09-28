@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2012
+====================
+Employee Name: Tristan
+Hours Worked: 11
+
+Basic Pay: £330.00
+Overtime: £0.00
+
+====================
+Total Pay: £330.00
+====================

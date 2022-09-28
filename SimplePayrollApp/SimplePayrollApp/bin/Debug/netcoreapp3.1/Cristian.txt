@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2012
+====================
+Employee Name: Cristian
+Hours Worked: 100
+
+Basic Pay: £3,000.00
+Overtime: £0.00
+
+====================
+Total Pay: £3,000.00
+====================

@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2012
+====================
+Employee Name: Andrew
+Hours Worked: 21
+
+Basic Pay: £1,050.00
+Allowance: £0.00
+
+====================
+Total Pay: £1,050.00
+====================

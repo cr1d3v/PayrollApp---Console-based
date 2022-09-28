@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2012
+====================
+Employee Name: Ana
+Hours Worked: 36
+
+Basic Pay: £1,800.00
+Allowance: £0.00
+
+====================
+Total Pay: £1,800.00
+====================
